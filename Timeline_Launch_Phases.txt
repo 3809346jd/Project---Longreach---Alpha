@@ -1,0 +1,13 @@
+
+PROJECT LONGREACH ALPHA — LAUNCH PHASES
+
+- Phase 0 (Stage Zero): 2028 — Launch into Earth orbit via Falcon Heavy or equivalent
+- Phase 1: Venus gravity assist (~2 months post-launch)
+- Phase 2: Mars flyby and Phobos laser deployment (~6 months post-launch)
+- Phase 3: Solar Oberth maneuver (~1 year in)
+- Phase 4: Jupiter assist (~2 years)
+- Phase 5: Saturn assist (~3 years)
+- Cruise Phase: Accelerating to 0.5c+ toward Alpha Centauri
+
+Arrival: ~7.5 years post-launch
+    
